@@ -1,0 +1,97 @@
+
+meodo.png
+size: 435,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 340, 396
+  size: 113, 90
+  orig: 113, 90
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 384, 19
+  size: 124, 30
+  orig: 124, 30
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 346, 65
+  size: 36, 40
+  orig: 37, 40
+  offset: 1, 0
+  index: -1
+12
+  rotate: false
+  xy: 346, 23
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 103
+  size: 406, 336
+  orig: 406, 336
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 140, 7
+  size: 101, 94
+  orig: 101, 95
+  offset: 0, 1
+  index: -1
+4
+  rotate: false
+  xy: 243, 7
+  size: 101, 94
+  orig: 101, 95
+  offset: 0, 1
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 136, 99
+  orig: 136, 99
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 388, 177
+  size: 45, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 346, 5
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+7_2
+  rotate: false
+  xy: 340, 107
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 340, 224
+  size: 170, 72
+  orig: 170, 72
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 340, 145
+  size: 77, 46
+  orig: 191, 46
+  offset: 114, 0
+  index: -1

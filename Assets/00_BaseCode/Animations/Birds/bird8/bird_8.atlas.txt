@@ -1,0 +1,279 @@
+
+bird_8.png
+size: 1885,1548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYE
+  rotate: false
+  xy: 1095, 1057
+  size: 213, 185
+  orig: 213, 185
+  offset: 0, 0
+  index: -1
+bird8 resize/BUBBLE (2)
+  rotate: false
+  xy: 384, 669
+  size: 417, 365
+  orig: 417, 365
+  offset: 0, 0
+  index: -1
+bird8 resize/CHAN
+  rotate: false
+  xy: 1681, 399
+  size: 171, 159
+  orig: 171, 159
+  offset: 0, 0
+  index: -1
+bird8 resize/CHAN1s
+  rotate: true
+  xy: 1231, 539
+  size: 128, 199
+  orig: 128, 199
+  offset: 0, 0
+  index: -1
+bird8 resize/CHAN2s
+  rotate: false
+  xy: 1099, 533
+  size: 128, 208
+  orig: 128, 208
+  offset: 0, 0
+  index: -1
+bird8 resize/DUOI
+  rotate: false
+  xy: 1096, 126
+  size: 263, 177
+  orig: 263, 177
+  offset: 0, 0
+  index: -1
+bird8 resize/EYE
+  rotate: true
+  xy: 1733, 1138
+  size: 121, 106
+  orig: 121, 106
+  offset: 0, 0
+  index: -1
+bird8 resize/EYECLOSE (1)
+  rotate: false
+  xy: 784, 1046
+  size: 215, 187
+  orig: 215, 187
+  offset: 0, 0
+  index: -1
+bird8 resize/MAO
+  rotate: true
+  xy: 1661, 562
+  size: 159, 220
+  orig: 159, 220
+  offset: 0, 0
+  index: -1
+bird8 resize/MAO1s
+  rotate: true
+  xy: 1434, 546
+  size: 121, 223
+  orig: 121, 223
+  offset: 0, 0
+  index: -1
+bird8 resize/MAO2s
+  rotate: false
+  xy: 971, 116
+  size: 121, 241
+  orig: 121, 241
+  offset: 0, 0
+  index: -1
+bird8 resize/WING
+  rotate: false
+  xy: 1520, 1263
+  size: 341, 281
+  orig: 341, 281
+  offset: 0, 0
+  index: -1
+bird8 resize/WING1
+  rotate: true
+  xy: 4, 255
+  size: 424, 364
+  orig: 424, 364
+  offset: 0, 0
+  index: -1
+bird8 resize/body
+  rotate: false
+  xy: 805, 745
+  size: 422, 297
+  orig: 422, 297
+  offset: 0, 0
+  index: -1
+bird8 resize/body copy
+  rotate: true
+  xy: 399, 1038
+  size: 506, 381
+  orig: 506, 381
+  offset: 0, 0
+  index: -1
+bird8 resize/bubble
+  rotate: false
+  xy: 1363, 6
+  size: 254, 160
+  orig: 254, 160
+  offset: 0, 0
+  index: -1
+bird8 resize/duoi1
+  rotate: true
+  xy: 1527, 725
+  size: 349, 263
+  orig: 349, 263
+  offset: 0, 0
+  index: -1
+bird8 resize/head
+  rotate: true
+  xy: 805, 361
+  size: 380, 290
+  orig: 380, 290
+  offset: 0, 0
+  index: -1
+bird8 resize/head1
+  rotate: true
+  xy: 4, 683
+  size: 466, 376
+  orig: 466, 376
+  offset: 0, 0
+  index: -1
+bird8 resize/mo
+  rotate: true
+  xy: 1003, 1134
+  size: 99, 83
+  orig: 99, 83
+  offset: 0, 0
+  index: -1
+bird8 resize/mos
+  rotate: true
+  xy: 656, 491
+  size: 174, 144
+  orig: 174, 144
+  offset: 0, 0
+  index: -1
+broken
+  rotate: false
+  xy: 656, 347
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+broken heart
+  rotate: false
+  xy: 4, 4
+  size: 163, 163
+  orig: 163, 163
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 171, 4
+  size: 163, 163
+  orig: 163, 163
+  offset: 0, 0
+  index: -1
+skin/DUOI
+  rotate: false
+  xy: 1498, 170
+  size: 265, 178
+  orig: 265, 178
+  offset: 0, 0
+  index: -1
+skin/MAO
+  rotate: true
+  xy: 1621, 8
+  size: 158, 220
+  orig: 158, 220
+  offset: 0, 0
+  index: -1
+skin/WING
+  rotate: true
+  xy: 372, 325
+  size: 340, 280
+  orig: 340, 280
+  offset: 0, 0
+  index: -1
+skin/ao1
+  rotate: false
+  xy: 784, 1237
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+skin/ao1 copy
+  rotate: false
+  xy: 4, 1153
+  size: 391, 391
+  orig: 391, 391
+  offset: 0, 0
+  index: -1
+skin/ao2
+  rotate: false
+  xy: 1794, 868
+  size: 83, 266
+  orig: 83, 266
+  offset: 0, 0
+  index: -1
+skin/ao2 copy
+  rotate: false
+  xy: 800, 6
+  size: 167, 351
+  orig: 167, 351
+  offset: 0, 0
+  index: -1
+skin/body
+  rotate: false
+  xy: 1095, 1246
+  size: 421, 298
+  orig: 421, 298
+  offset: 0, 0
+  index: -1
+skin/head
+  rotate: true
+  xy: 1231, 671
+  size: 382, 292
+  orig: 382, 292
+  offset: 0, 0
+  index: -1
+skin/mu
+  rotate: false
+  xy: 656, 31
+  size: 137, 312
+  orig: 137, 312
+  offset: 0, 0
+  index: -1
+skin/mu1
+  rotate: true
+  xy: 1099, 307
+  size: 222, 395
+  orig: 222, 395
+  offset: 0, 0
+  index: -1
+skin/quat
+  rotate: true
+  xy: 1498, 352
+  size: 190, 179
+  orig: 190, 179
+  offset: 0, 0
+  index: -1
+skin/quat1
+  rotate: true
+  xy: 372, 46
+  size: 275, 263
+  orig: 275, 263
+  offset: 0, 0
+  index: -1
+skin/thatlung
+  rotate: false
+  xy: 4, 171
+  size: 334, 80
+  orig: 334, 80
+  offset: 0, 0
+  index: -1
+skin/thatlung copy
+  rotate: false
+  xy: 1312, 1078
+  size: 417, 164
+  orig: 417, 164
+  offset: 0, 0
+  index: -1

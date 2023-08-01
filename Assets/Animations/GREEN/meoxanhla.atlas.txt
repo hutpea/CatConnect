@@ -1,0 +1,83 @@
+
+meoxanhla.png
+size: 558,346
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 342, 372
+  orig: 342, 372
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 523, 114
+  size: 32, 37
+  orig: 35, 41
+  offset: 1, 2
+  index: -1
+11
+  rotate: false
+  xy: 482, 5
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 465, 197
+  size: 147, 77
+  orig: 147, 77
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 465, 70
+  size: 125, 33
+  orig: 127, 35
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 500, 43
+  size: 152, 21
+  orig: 153, 22
+  offset: 0, 1
+  index: -1
+5
+  rotate: false
+  xy: 376, 5
+  size: 60, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 376, 59
+  size: 285, 87
+  orig: 285, 87
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 438, 15
+  size: 42, 42
+  orig: 46, 45
+  offset: 2, 1
+  index: -1
+8
+  rotate: true
+  xy: 482, 43
+  size: 25, 15
+  orig: 27, 16
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 523, 153
+  size: 33, 42
+  orig: 36, 44
+  offset: 1, 1
+  index: -1

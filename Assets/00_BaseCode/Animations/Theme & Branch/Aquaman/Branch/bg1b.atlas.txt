@@ -1,0 +1,48 @@
+
+bg1b.png
+size: 1491,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye1
+  rotate: false
+  xy: 1462, 108
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 1462, 85
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: true
+  xy: 1462, 131
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+fish1
+  rotate: false
+  xy: 978, 2
+  size: 482, 165
+  orig: 482, 165
+  offset: 0, 0
+  index: -1
+fish2
+  rotate: false
+  xy: 492, 2
+  size: 484, 165
+  orig: 484, 165
+  offset: 0, 0
+  index: -1
+fish3
+  rotate: false
+  xy: 2, 2
+  size: 488, 165
+  orig: 488, 165
+  offset: 0, 0
+  index: -1

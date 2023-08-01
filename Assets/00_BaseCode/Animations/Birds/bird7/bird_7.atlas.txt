@@ -1,0 +1,216 @@
+
+bird_7.png
+size: 1967,1550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYE
+  rotate: false
+  xy: 1372, 439
+  size: 331, 281
+  orig: 331, 281
+  offset: 0, 0
+  index: -1
+bird 7 resize/CHAN
+  rotate: false
+  xy: 1597, 17
+  size: 174, 169
+  orig: 174, 169
+  offset: 0, 0
+  index: -1
+bird 7 resize/CHAN copy1
+  rotate: false
+  xy: 1112, 384
+  size: 256, 253
+  orig: 256, 253
+  offset: 0, 0
+  index: -1
+bird 7 resize/DUOIs
+  rotate: true
+  xy: 4, 4
+  size: 417, 365
+  orig: 417, 365
+  offset: 0, 0
+  index: -1
+bird 7 resize/EYE
+  rotate: true
+  xy: 1802, 290
+  size: 189, 161
+  orig: 189, 161
+  offset: 0, 0
+  index: -1
+bird 7 resize/EYECLOSE (1)
+  rotate: true
+  xy: 1623, 741
+  size: 333, 283
+  orig: 333, 283
+  offset: 0, 0
+  index: -1
+bird 7 resize/MO
+  rotate: false
+  xy: 1090, 75
+  size: 296, 305
+  orig: 296, 305
+  offset: 0, 0
+  index: -1
+bird 7 resize/MO1
+  rotate: false
+  xy: 373, 45
+  size: 379, 390
+  orig: 379, 390
+  offset: 0, 0
+  index: -1
+bird 7 resize/WING
+  rotate: true
+  xy: 1372, 724
+  size: 343, 247
+  orig: 343, 247
+  offset: 0, 0
+  index: -1
+bird 7 resize/WING 1
+  rotate: true
+  xy: 756, 10
+  size: 425, 330
+  orig: 425, 330
+  offset: 0, 0
+  index: -1
+bird 7 resize/body
+  rotate: false
+  xy: 4, 425
+  size: 343, 516
+  orig: 343, 516
+  offset: 0, 0
+  index: -1
+bird 7 resize/body1
+  rotate: false
+  xy: 4, 945
+  size: 425, 601
+  orig: 425, 601
+  offset: 0, 0
+  index: -1
+skin/body1
+  rotate: false
+  xy: 4, 945
+  size: 425, 601
+  orig: 425, 601
+  offset: 0, 0
+  index: -1
+bird 7 resize/bubble
+  rotate: true
+  xy: 1707, 483
+  size: 254, 160
+  orig: 254, 160
+  offset: 0, 0
+  index: -1
+bird 7 resize/head
+  rotate: true
+  xy: 852, 598
+  size: 386, 256
+  orig: 386, 256
+  offset: 0, 0
+  index: -1
+bird 7 resize/head1
+  rotate: true
+  xy: 1607, 1078
+  size: 468, 340
+  orig: 468, 340
+  offset: 0, 0
+  index: -1
+skin/head1
+  rotate: true
+  xy: 1607, 1078
+  size: 468, 340
+  orig: 468, 340
+  offset: 0, 0
+  index: -1
+bird 7 resize/longmay
+  rotate: false
+  xy: 1090, 6
+  size: 125, 65
+  orig: 125, 65
+  offset: 0, 0
+  index: -1
+broken
+  rotate: false
+  xy: 1802, 146
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 1390, 190
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+longmay
+  rotate: false
+  xy: 852, 482
+  size: 216, 112
+  orig: 216, 112
+  offset: 0, 0
+  index: -1
+longmay7
+  rotate: true
+  xy: 1775, 56
+  size: 86, 133
+  orig: 86, 133
+  offset: 0, 0
+  index: -1
+skin/EYE
+  rotate: false
+  xy: 1390, 27
+  size: 203, 159
+  orig: 203, 159
+  offset: 0, 0
+  index: -1
+skin/EYECLOSE (1)
+  rotate: true
+  xy: 1639, 232
+  size: 203, 159
+  orig: 203, 159
+  offset: 0, 0
+  index: -1
+skin/ao
+  rotate: true
+  xy: 351, 480
+  size: 461, 204
+  orig: 461, 204
+  offset: 0, 0
+  index: -1
+skin/ao1
+  rotate: true
+  xy: 559, 439
+  size: 545, 289
+  orig: 545, 289
+  offset: 0, 0
+  index: -1
+skin/body
+  rotate: false
+  xy: 889, 1029
+  size: 341, 517
+  orig: 341, 517
+  offset: 0, 0
+  index: -1
+skin/head
+  rotate: true
+  xy: 1112, 641
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: -1
+skin/mu
+  rotate: false
+  xy: 1234, 1071
+  size: 369, 475
+  orig: 369, 475
+  offset: 0, 0
+  index: -1
+skin/mu1
+  rotate: false
+  xy: 433, 988
+  size: 452, 558
+  orig: 452, 558
+  offset: 0, 0
+  index: -1

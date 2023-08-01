@@ -1,0 +1,13 @@
+
+Asgard export.png
+size: 1520,359
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star
+  rotate: false
+  xy: 2, 2
+  size: 1516, 355
+  orig: 1518, 357
+  offset: 1, 1
+  index: -1

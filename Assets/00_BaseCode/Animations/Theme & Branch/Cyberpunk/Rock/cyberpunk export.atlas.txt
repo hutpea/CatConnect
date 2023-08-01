@@ -1,0 +1,55 @@
+
+cyberpunk export.png
+size: 263,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 679
+  rotate: true
+  xy: 177, 2
+  size: 32, 57
+  orig: 33, 58
+  offset: 1, 0
+  index: -1
+Layer 680
+  rotate: true
+  xy: 236, 14
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Layer 681
+  rotate: true
+  xy: 59, 13
+  size: 48, 57
+  orig: 67, 61
+  offset: 4, 2
+  index: -1
+Layer 682
+  rotate: false
+  xy: 118, 17
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+Layer 683
+  rotate: false
+  xy: 195, 36
+  size: 58, 58
+  orig: 81, 80
+  offset: 11, 11
+  index: -1
+Layer 684
+  rotate: false
+  xy: 2, 63
+  size: 191, 31
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+Layer 685
+  rotate: true
+  xy: 2, 7
+  size: 54, 55
+  orig: 78, 80
+  offset: 12, 13
+  index: -1

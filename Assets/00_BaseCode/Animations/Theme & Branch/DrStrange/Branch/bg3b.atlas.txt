@@ -1,0 +1,48 @@
+
+bg3b.png
+size: 334,662
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canh1
+  rotate: true
+  xy: 96, 113
+  size: 547, 87
+  orig: 549, 89
+  offset: 1, 1
+  index: -1
+canh1b
+  rotate: false
+  xy: 96, 78
+  size: 31, 33
+  orig: 33, 35
+  offset: 1, 1
+  index: -1
+canh2
+  rotate: true
+  xy: 2, 60
+  size: 600, 92
+  orig: 602, 94
+  offset: 1, 1
+  index: -1
+canh2b
+  rotate: false
+  xy: 2, 2
+  size: 330, 56
+  orig: 330, 56
+  offset: 0, 0
+  index: -1
+canh3
+  rotate: true
+  xy: 185, 93
+  size: 567, 81
+  orig: 569, 83
+  offset: 1, 1
+  index: -1
+canh3b
+  rotate: true
+  xy: 268, 134
+  size: 526, 56
+  orig: 526, 57
+  offset: 0, 1
+  index: -1

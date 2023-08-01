@@ -1,0 +1,104 @@
+
+boxeplo.png
+size: 1580,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 155
+  size: 402, 402
+  orig: 404, 404
+  offset: 1, 1
+  index: -1
+Layer 10
+  rotate: false
+  xy: 982, 17
+  size: 182, 155
+  orig: 182, 155
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: true
+  xy: 1197, 162
+  size: 395, 381
+  orig: 395, 381
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 810, 174
+  size: 385, 383
+  orig: 385, 383
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 183, 15
+  size: 138, 171
+  orig: 138, 171
+  offset: 0, 0
+  index: -1
+Layer 4 copy
+  rotate: true
+  xy: 540, 33
+  size: 120, 159
+  orig: 122, 160
+  offset: 1, 1
+  index: -1
+Layer 4 copy 2
+  rotate: false
+  xy: 1166, 8
+  size: 173, 152
+  orig: 173, 152
+  offset: 0, 0
+  index: -1
+Layer 4 copy 3
+  rotate: true
+  xy: 2, 15
+  size: 138, 179
+  orig: 139, 181
+  offset: 0, 1
+  index: -1
+Layer 4 copy 4
+  rotate: false
+  xy: 1506, 88
+  size: 54, 72
+  orig: 55, 73
+  offset: 0, 0
+  index: -1
+Layer 4 copy 5
+  rotate: false
+  xy: 1506, 10
+  size: 52, 76
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 1341, 18
+  size: 163, 142
+  orig: 163, 142
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 356, 18
+  size: 182, 135
+  orig: 182, 135
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 810, 2
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+block
+  rotate: false
+  xy: 406, 155
+  size: 402, 402
+  orig: 402, 402
+  offset: 0, 0
+  index: -1

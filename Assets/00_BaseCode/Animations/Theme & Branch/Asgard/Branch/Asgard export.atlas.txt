@@ -1,0 +1,139 @@
+
+Asgard export.png
+size: 673,947
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cau1
+  rotate: false
+  xy: 2, 633
+  size: 622, 53
+  orig: 622, 53
+  offset: 0, 0
+  index: -1
+cau2
+  rotate: false
+  xy: 2, 794
+  size: 620, 51
+  orig: 622, 53
+  offset: 1, 1
+  index: -1
+cau3
+  rotate: false
+  xy: 2, 741
+  size: 620, 51
+  orig: 622, 53
+  offset: 1, 1
+  index: -1
+image_2022_06_29T07_41_07_492Z
+  rotate: true
+  xy: 108, 77
+  size: 116, 129
+  orig: 162, 184
+  offset: 22, 24
+  index: -1
+image_2022_06_29T07_41_07_493Z
+  rotate: true
+  xy: 2, 100
+  size: 93, 104
+  orig: 129, 150
+  offset: 18, 21
+  index: -1
+image_2022_06_29T07_41_07_494Z
+  rotate: true
+  xy: 239, 72
+  size: 121, 131
+  orig: 163, 184
+  offset: 22, 24
+  index: -1
+light1
+  rotate: false
+  xy: 372, 2
+  size: 299, 191
+  orig: 299, 197
+  offset: 0, 2
+  index: -1
+light2
+  rotate: false
+  xy: 372, 2
+  size: 299, 191
+  orig: 299, 197
+  offset: 0, 2
+  index: -1
+light3
+  rotate: false
+  xy: 372, 2
+  size: 299, 191
+  orig: 299, 197
+  offset: 0, 2
+  index: -1
+ui bird/Shape 2 copy 10
+  rotate: false
+  xy: 2, 688
+  size: 650, 51
+  orig: 658, 57
+  offset: 3, 3
+  index: -1
+ui bird/Shape 2 copy 11
+  rotate: false
+  xy: 2, 466
+  size: 644, 54
+  orig: 653, 60
+  offset: 4, 3
+  index: -1
+ui bird/Shape 2 copy 12
+  rotate: false
+  xy: 2, 195
+  size: 647, 69
+  orig: 655, 75
+  offset: 2, 3
+  index: -1
+ui bird/Shape 2 copy 3
+  rotate: false
+  xy: 2, 408
+  size: 644, 56
+  orig: 653, 60
+  offset: 4, 1
+  index: -1
+ui bird/Shape 2 copy 4
+  rotate: false
+  xy: 2, 337
+  size: 646, 69
+  orig: 655, 75
+  offset: 3, 3
+  index: -1
+ui bird/Shape 2 copy 5
+  rotate: false
+  xy: 2, 897
+  size: 650, 48
+  orig: 658, 53
+  offset: 4, 3
+  index: -1
+ui bird/Shape 2 copy 6
+  rotate: false
+  xy: 2, 578
+  size: 650, 53
+  orig: 658, 57
+  offset: 3, 1
+  index: -1
+ui bird/Shape 2 copy 7
+  rotate: false
+  xy: 2, 522
+  size: 644, 54
+  orig: 653, 60
+  offset: 4, 3
+  index: -1
+ui bird/Shape 2 copy 8
+  rotate: false
+  xy: 2, 266
+  size: 646, 69
+  orig: 655, 75
+  offset: 3, 3
+  index: -1
+ui bird/Shape 2 copy 9
+  rotate: false
+  xy: 2, 847
+  size: 650, 48
+  orig: 658, 53
+  offset: 4, 3
+  index: -1

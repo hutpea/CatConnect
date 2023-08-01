@@ -1,0 +1,97 @@
+
+meohong.png
+size: 535,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 403, 2
+  size: 48, 65
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 403, 52
+  size: 124, 30
+  orig: 124, 30
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 435, 131
+  size: 32, 38
+  orig: 36, 40
+  offset: 2, 1
+  index: -1
+12
+  rotate: false
+  xy: 435, 91
+  size: 32, 38
+  orig: 34, 41
+  offset: 1, 2
+  index: -1
+13
+  rotate: false
+  xy: 470, 6
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 10
+  size: 335, 336
+  orig: 335, 336
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 339, 51
+  size: 62, 125
+  orig: 62, 125
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 470, 44
+  size: 62, 125
+  orig: 62, 125
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 442, 171
+  size: 101, 91
+  orig: 101, 91
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 339, 178
+  size: 101, 94
+  orig: 101, 94
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 339, 4
+  size: 45, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1
+8
+  rotate: true
+  xy: 511, 314
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 339, 274
+  size: 170, 72
+  orig: 170, 72
+  offset: 0, 0
+  index: -1

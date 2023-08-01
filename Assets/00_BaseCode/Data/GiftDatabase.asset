@@ -1,0 +1,1397 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee63665c9857c24991ee9b667758a84, type: 3}
+  m_Name: GiftDatabase
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 4154393423063490114, guid: b63bdf7339c1cc049b581c11b1c9f49d, type: 3}
+    - {fileID: 4154393423063490114, guid: 780de218b05a8ba4f89c9b29fbd9a05c, type: 3}
+    - {fileID: 4154393423063490114, guid: 4063ed0489c28c1438b88a24ee90037e, type: 3}
+    - {fileID: 4154393423063490114, guid: 4d1faf43dd44e98478f047120bbaa1b1, type: 3}
+    - {fileID: 4154393423063490114, guid: ce6dcbb0de23b7c4688940c777e21f99, type: 3}
+    - {fileID: 4154393423063490114, guid: a33bbc07a0c44c343a8b0776471e9d71, type: 3}
+    - {fileID: 4154393423063490114, guid: 0290ca626be2e6b409ba73e2b8b42521, type: 3}
+    - {fileID: 4154393423063490114, guid: d363bd9553b5a6e4098aad15d601e59e, type: 3}
+    - {fileID: 4154393423063490114, guid: ad1dd522f0cbad243b3d3fa0e4c7b773, type: 3}
+    - {fileID: 4154393423063490114, guid: d4d46667969e61e4d948cd0bbd7ba3c2, type: 3}
+    - {fileID: 21300000, guid: 106800e0b97493647843476c13ae6a39, type: 3}
+    - {fileID: 21300000, guid: 3d83cb71fb1fc224fb3c5cc9dd22f462, type: 3}
+    - {fileID: 21300000, guid: f6867640e8465a042959b707c1969fac, type: 3}
+    - {fileID: 21300000, guid: 2ab043498211b8e4b9082c30048433e5, type: 3}
+    - {fileID: 21300000, guid: ba1cb140b35045142b5c40b7ef0799a6, type: 3}
+    - {fileID: 21300000, guid: 644e7627a3d35d849a9db35762830128, type: 3}
+    - {fileID: 21300000, guid: f80f011f38e112546bbd79702e0c856d, type: 3}
+    - {fileID: 21300000, guid: 1d087da30a4ae6f4a9adce6a61eccade, type: 3}
+    - {fileID: 21300000, guid: 4e7e0071bf96cce438c84ffb91ae8b37, type: 3}
+    - {fileID: 21300000, guid: 07c2a9786034b2444ad33d187870b000, type: 3}
+    - {fileID: 21300000, guid: f6f18eda9e12cbe4b89e93f2b8549ef7, type: 3}
+    - {fileID: 21300000, guid: a9810e129a0530749a10b325364fb86f, type: 3}
+    - {fileID: 21300000, guid: cbc55ec4081502b49859118f6c06d501, type: 3}
+    - {fileID: 21300000, guid: 3717f163fc174e044ae43855f94ad7b3, type: 3}
+    - {fileID: 21300000, guid: 3599b3e6ac6ffbd4aaf5bcd92b0337e4, type: 3}
+    - {fileID: 21300000, guid: 622dfceb794add94e89e7466cc98e366, type: 3}
+    - {fileID: 21300000, guid: df50b564c320ff04ea6e333a9d70d01f, type: 3}
+    - {fileID: 21300000, guid: 8d2bff66bcd2e654a8bb9ec662eb6589, type: 3}
+    - {fileID: 21300000, guid: 0192f905ffbc8c749ad50e52b88e4546, type: 3}
+    - {fileID: 21300000, guid: 7bfe1db4a16f78e4ab69bd999661edc3, type: 3}
+    - {fileID: 21300000, guid: bcaacfbe23606794195295377ba33177, type: 3}
+    - {fileID: 21300000, guid: de5436d5961a5a54dad68ec7ae7c1c28, type: 3}
+    - {fileID: 21300000, guid: c62de6dab55e72445a009c4298397a3a, type: 3}
+    - {fileID: 21300000, guid: 75e0e0fc493bd0548837b6a0be3d3c6b, type: 3}
+    - {fileID: 21300000, guid: 68394ce0654ac3947957388cb54ce99e, type: 3}
+    - {fileID: 21300000, guid: 1fe62e4ec9f2aa74bb6daaa8543319e0, type: 3}
+    - {fileID: 21300000, guid: 14725b2ed3f6cc448a08a500a700b4cd, type: 3}
+    - {fileID: 21300000, guid: 9528b4ec75eb7f246bdd00eada408160, type: 3}
+    - {fileID: 4154393423063490114, guid: 6f3a07f1a5bcff7438713a147a8ae902, type: 3}
+    - {fileID: 21300000, guid: 38cd5117ed56f3a46b4393019a7ac405, type: 3}
+    - {fileID: 4154393423063490114, guid: 86a6f95923c8b73499778464434ea0f7, type: 3}
+    - {fileID: 21300000, guid: 7146bf3dfa1d6d94296b2f303b41e84d, type: 3}
+    - {fileID: 4154393423063490114, guid: fbd4949998a46844faa9eb5c2c0b1fe5, type: 3}
+    - {fileID: 21300000, guid: a667c93749757eb4db9c19795143e0c0, type: 3}
+    - {fileID: 4154393423063490114, guid: 222a54fd2bdb4694a8e74ab709ff0846, type: 3}
+    - {fileID: 21300000, guid: 0ff24965b4e1aaf4eb92e7f7ba376b01, type: 3}
+    - {fileID: 4154393423063490114, guid: 94acc6d2437926b41812f14ba2fc5f29, type: 3}
+    - {fileID: 21300000, guid: f7b7b3c2a3df6c949a76a640edfe671d, type: 3}
+    - {fileID: 4154393423063490114, guid: aa53bff9fe52f214890c5c313be8ea43, type: 3}
+    - {fileID: 4999625919638458754, guid: 22ec9f25f5f3851408c669ad88aebb90, type: 3}
+    - {fileID: 4999625919638458754, guid: 7f0a057ecb49a144d8b5887531aaf0c1, type: 3}
+    - {fileID: 4999625919638458754, guid: b9dbf5e04266e334abb5980f5b7b5da2, type: 3}
+    - {fileID: 4999625919638458754, guid: 621e4b492c594e848bb164d1ae7e2c8e, type: 3}
+    - {fileID: 21300000, guid: 84bf9ac64a966fc48a358e083d49f0d0, type: 3}
+    - {fileID: 4999625919638458754, guid: 33b288fc74e177a4cb45e59f7e85455c, type: 3}
+    - {fileID: 21300000, guid: e336bebebed04674593e584b0c920307, type: 3}
+    - {fileID: 21300000, guid: d31c784eebc5a51469b4ebf505d2897f, type: 3}
+    - {fileID: 21300000, guid: a00bc93650d035f4b9c7628e80c5b112, type: 3}
+    - {fileID: 21300000, guid: e9747e6af852f9148b2ddc58337fc3bd, type: 3}
+    - {fileID: 21300000, guid: 74ff84e83203f4f45bcc305586f5f73e, type: 3}
+    - {fileID: 21300000, guid: bf3b2f2b913c7fb429dae98cd65c937c, type: 3}
+    - {fileID: 21300000, guid: 24f0c39cee9a85e43a2845f2ff6a64c6, type: 3}
+    - {fileID: 21300000, guid: bfe841b2e4db175438fad17a2e5d6ec4, type: 3}
+    - {fileID: 21300000, guid: 4c40baa62c4ebde4780312d928c53d97, type: 3}
+    - {fileID: 21300000, guid: 8ab6dc28f994152478e30724d2b1d6f7, type: 3}
+    - {fileID: 21300000, guid: f281689b2d56a334f9bb410411e6a265, type: 3}
+    - {fileID: 21300000, guid: dc7e915b5fa2fe944bdfe2d2710db04f, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: giftList
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[GiftType, Assembly-CSharp],[Gift,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[GiftType, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 61
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 15
+    - Name: $v
+      Entry: 7
+      Data: 2|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 16
+    - Name: $v
+      Entry: 7
+      Data: 3|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 17
+    - Name: $v
+      Entry: 7
+      Data: 4|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 18
+    - Name: $v
+      Entry: 7
+      Data: 5|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 19
+    - Name: $v
+      Entry: 7
+      Data: 6|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 20
+    - Name: $v
+      Entry: 7
+      Data: 7|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 21
+    - Name: $v
+      Entry: 7
+      Data: 8|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 22
+    - Name: $v
+      Entry: 7
+      Data: 9|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 23
+    - Name: $v
+      Entry: 7
+      Data: 10|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 24
+    - Name: $v
+      Entry: 7
+      Data: 11|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 26
+    - Name: $v
+      Entry: 7
+      Data: 12|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 10
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 27
+    - Name: $v
+      Entry: 7
+      Data: 13|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 11
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 28
+    - Name: $v
+      Entry: 7
+      Data: 14|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 12
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 29
+    - Name: $v
+      Entry: 7
+      Data: 15|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 13
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 30
+    - Name: $v
+      Entry: 7
+      Data: 16|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 14
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 31
+    - Name: $v
+      Entry: 7
+      Data: 17|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 15
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 32
+    - Name: $v
+      Entry: 7
+      Data: 18|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 16
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 33
+    - Name: $v
+      Entry: 7
+      Data: 19|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 17
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 34
+    - Name: $v
+      Entry: 7
+      Data: 20|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 18
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 35
+    - Name: $v
+      Entry: 7
+      Data: 21|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 19
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 37
+    - Name: $v
+      Entry: 7
+      Data: 22|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 20
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 38
+    - Name: $v
+      Entry: 7
+      Data: 23|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 21
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 39
+    - Name: $v
+      Entry: 7
+      Data: 24|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 22
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 40
+    - Name: $v
+      Entry: 7
+      Data: 25|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 23
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 41
+    - Name: $v
+      Entry: 7
+      Data: 26|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 24
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 42
+    - Name: $v
+      Entry: 7
+      Data: 27|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 25
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 43
+    - Name: $v
+      Entry: 7
+      Data: 28|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 26
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 44
+    - Name: $v
+      Entry: 7
+      Data: 29|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 27
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 45
+    - Name: $v
+      Entry: 7
+      Data: 30|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 28
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 46
+    - Name: $v
+      Entry: 7
+      Data: 31|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 29
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 47
+    - Name: $v
+      Entry: 7
+      Data: 32|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 30
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 48
+    - Name: $v
+      Entry: 7
+      Data: 33|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 31
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 49
+    - Name: $v
+      Entry: 7
+      Data: 34|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 32
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 50
+    - Name: $v
+      Entry: 7
+      Data: 35|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 33
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 51
+    - Name: $v
+      Entry: 7
+      Data: 36|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 34
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 52
+    - Name: $v
+      Entry: 7
+      Data: 37|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 35
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 53
+    - Name: $v
+      Entry: 7
+      Data: 38|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 36
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 56
+    - Name: $v
+      Entry: 7
+      Data: 39|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 37
+    - Name: giftAnim
+      Entry: 10
+      Data: 38
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 57
+    - Name: $v
+      Entry: 7
+      Data: 40|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 39
+    - Name: giftAnim
+      Entry: 10
+      Data: 40
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 58
+    - Name: $v
+      Entry: 7
+      Data: 41|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 41
+    - Name: giftAnim
+      Entry: 10
+      Data: 42
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 59
+    - Name: $v
+      Entry: 7
+      Data: 42|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 43
+    - Name: giftAnim
+      Entry: 10
+      Data: 44
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 60
+    - Name: $v
+      Entry: 7
+      Data: 43|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 45
+    - Name: giftAnim
+      Entry: 10
+      Data: 46
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 61
+    - Name: $v
+      Entry: 7
+      Data: 44|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 47
+    - Name: giftAnim
+      Entry: 10
+      Data: 48
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 66
+    - Name: $v
+      Entry: 7
+      Data: 45|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 49
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 67
+    - Name: $v
+      Entry: 7
+      Data: 46|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 50
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 68
+    - Name: $v
+      Entry: 7
+      Data: 47|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 51
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 69
+    - Name: $v
+      Entry: 7
+      Data: 48|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 52
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 70
+    - Name: $v
+      Entry: 7
+      Data: 49|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 53
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 71
+    - Name: $v
+      Entry: 7
+      Data: 50|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 6
+      Data: 
+    - Name: giftAnim
+      Entry: 10
+      Data: 54
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 72
+    - Name: $v
+      Entry: 7
+      Data: 51|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 55
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 78
+    - Name: $v
+      Entry: 7
+      Data: 52|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 56
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 73
+    - Name: $v
+      Entry: 7
+      Data: 53|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 57
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 74
+    - Name: $v
+      Entry: 7
+      Data: 54|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 58
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 75
+    - Name: $v
+      Entry: 7
+      Data: 55|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 59
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 76
+    - Name: $v
+      Entry: 7
+      Data: 56|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 60
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 77
+    - Name: $v
+      Entry: 7
+      Data: 57|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 61
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 82
+    - Name: $v
+      Entry: 7
+      Data: 58|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 62
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 83
+    - Name: $v
+      Entry: 7
+      Data: 59|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 63
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 79
+    - Name: $v
+      Entry: 7
+      Data: 60|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 64
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 81
+    - Name: $v
+      Entry: 7
+      Data: 61|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 65
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 80
+    - Name: $v
+      Entry: 7
+      Data: 62|Gift, Assembly-CSharp
+    - Name: giftSprite
+      Entry: 10
+      Data: 66
+    - Name: giftAnim
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

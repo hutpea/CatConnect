@@ -1,0 +1,405 @@
+
+bird_2.png
+size: 2033,1986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin-1/BUBBLE (2)
+  rotate: false
+  xy: 428, 557
+  size: 300, 263
+  orig: 300, 263
+  offset: 0, 0
+  index: -1
+skin-1/EYECLOSE (3)
+  rotate: false
+  xy: 1483, 408
+  size: 180, 184
+  orig: 180, 184
+  offset: 0, 0
+  index: -1
+skin-1/body
+  rotate: false
+  xy: 4, 250
+  size: 410, 317
+  orig: 410, 317
+  offset: 0, 0
+  index: -1
+skin-1/bubble
+  rotate: false
+  xy: 1755, 798
+  size: 254, 160
+  orig: 254, 160
+  offset: 0, 0
+  index: -1
+skin-1/wing
+  rotate: false
+  xy: 732, 557
+  size: 300, 277
+  orig: 300, 277
+  offset: 0, 0
+  index: -1
+skin-2/CHAN
+  rotate: false
+  xy: 1667, 344
+  size: 212, 73
+  orig: 212, 73
+  offset: 0, 0
+  index: -1
+skin-2/CHANs
+  rotate: true
+  xy: 1230, 602
+  size: 293, 155
+  orig: 293, 155
+  offset: 0, 0
+  index: -1
+skin-2/DUOI
+  rotate: false
+  xy: 1755, 692
+  size: 226, 102
+  orig: 226, 102
+  offset: 0, 0
+  index: -1
+skin-2/DUOIs
+  rotate: false
+  xy: 1389, 596
+  size: 307, 182
+  orig: 307, 182
+  offset: 0, 0
+  index: -1
+skin-2/EYE
+  rotate: false
+  xy: 1483, 222
+  size: 180, 182
+  orig: 180, 182
+  offset: 0, 0
+  index: -1
+skin-2/Group 17
+  rotate: false
+  xy: 1015, 295
+  size: 149, 258
+  orig: 149, 258
+  offset: 0, 0
+  index: -1
+skin-2/Group 17 copy
+  rotate: true
+  xy: 1015, 223
+  size: 68, 177
+  orig: 68, 177
+  offset: 0, 0
+  index: -1
+skin-2/Group 18
+  rotate: true
+  xy: 1130, 22
+  size: 197, 99
+  orig: 197, 99
+  offset: 0, 0
+  index: -1
+skin-2/Group 19
+  rotate: false
+  xy: 4, 571
+  size: 420, 324
+  orig: 420, 324
+  offset: 0, 0
+  index: -1
+skin-2/Group 19 copy
+  rotate: true
+  xy: 805, 1259
+  size: 350, 254
+  orig: 350, 254
+  offset: 0, 0
+  index: -1
+skin-2/Group 20
+  rotate: false
+  xy: 418, 238
+  size: 326, 315
+  orig: 326, 315
+  offset: 0, 0
+  index: -1
+skin-2/Group 20 copy
+  rotate: false
+  xy: 1784, 1748
+  size: 245, 234
+  orig: 245, 234
+  offset: 0, 0
+  index: -1
+skin-2/Group 21
+  rotate: false
+  xy: 971, 10
+  size: 155, 205
+  orig: 155, 205
+  offset: 0, 0
+  index: -1
+skin-2/Group 21 copy
+  rotate: true
+  xy: 1233, 11
+  size: 74, 125
+  orig: 74, 125
+  offset: 0, 0
+  index: -1
+skin-2/Group 22 copy
+  rotate: false
+  xy: 4, 1248
+  size: 486, 330
+  orig: 486, 330
+  offset: 0, 0
+  index: -1
+skin-2/Group 22 copy 2
+  rotate: true
+  xy: 676, 838
+  size: 406, 249
+  orig: 406, 249
+  offset: 0, 0
+  index: -1
+skin-2/Group 24
+  rotate: false
+  xy: 1700, 567
+  size: 220, 121
+  orig: 220, 121
+  offset: 0, 0
+  index: -1
+skin-2/Group 24 copy
+  rotate: false
+  xy: 1744, 1124
+  size: 280, 184
+  orig: 280, 184
+  offset: 0, 0
+  index: -1
+skin-2/Layer 2
+  rotate: false
+  xy: 1555, 90
+  size: 79, 128
+  orig: 79, 128
+  offset: 0, 0
+  index: -1
+skin-2/Layer 2 copy
+  rotate: false
+  xy: 1320, 384
+  size: 159, 208
+  orig: 159, 208
+  offset: 0, 0
+  index: -1
+skin-2/Layer 3
+  rotate: true
+  xy: 1924, 617
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+skin-2/Layer 3 copy
+  rotate: false
+  xy: 1320, 241
+  size: 151, 139
+  orig: 151, 139
+  offset: 0, 0
+  index: -1
+skin-2/Layer 4
+  rotate: false
+  xy: 1763, 4
+  size: 91, 68
+  orig: 91, 68
+  offset: 0, 0
+  index: -1
+skin-2/Layer 4 copy
+  rotate: false
+  xy: 1233, 89
+  size: 171, 148
+  orig: 171, 148
+  offset: 0, 0
+  index: -1
+skin-2/Layer 5
+  rotate: true
+  xy: 1700, 715
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+skin-2/Layer 5 copy
+  rotate: false
+  xy: 1408, 87
+  size: 143, 131
+  orig: 143, 131
+  offset: 0, 0
+  index: -1
+skin-2/MAO
+  rotate: true
+  xy: 1168, 336
+  size: 256, 148
+  orig: 256, 148
+  offset: 0, 0
+  index: -1
+skin-2/MAOs
+  rotate: false
+  xy: 4, 10
+  size: 407, 236
+  orig: 407, 236
+  offset: 0, 0
+  index: -1
+skin-2/RAU
+  rotate: false
+  xy: 748, 219
+  size: 263, 334
+  orig: 263, 334
+  offset: 0, 0
+  index: -1
+skin-2/RAUs
+  rotate: false
+  xy: 501, 1248
+  size: 300, 361
+  orig: 300, 361
+  offset: 0, 0
+  index: -1
+skin-2/body
+  rotate: false
+  xy: 1369, 1664
+  size: 411, 318
+  orig: 411, 318
+  offset: 0, 0
+  index: -1
+skin-2/bodys
+  rotate: false
+  xy: 4, 1582
+  size: 493, 400
+  orig: 493, 400
+  offset: 0, 0
+  index: -1
+skin-2/brown
+  rotate: false
+  xy: 1667, 421
+  size: 214, 142
+  orig: 214, 142
+  offset: 0, 0
+  index: -1
+skin-2/eye2
+  rotate: false
+  xy: 1638, 67
+  size: 121, 112
+  orig: 121, 112
+  offset: 0, 0
+  index: -1
+skin-2/head
+  rotate: false
+  xy: 1375, 1356
+  size: 385, 304
+  orig: 385, 304
+  offset: 0, 0
+  index: -1
+skin-2/heads
+  rotate: false
+  xy: 501, 1613
+  size: 440, 369
+  orig: 440, 369
+  offset: 0, 0
+  index: -1
+skin-2/mo
+  rotate: false
+  xy: 1763, 76
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+skin-2/mos
+  rotate: true
+  xy: 1667, 183
+  size: 157, 183
+  orig: 157, 183
+  offset: 0, 0
+  index: -1
+skin-2/wing
+  rotate: false
+  xy: 415, 4
+  size: 248, 230
+  orig: 248, 230
+  offset: 0, 0
+  index: -1
+skin-2/wings
+  rotate: false
+  xy: 1411, 1042
+  size: 329, 310
+  orig: 329, 310
+  offset: 0, 0
+  index: -1
+skin-3/Group 4 copy 2
+  rotate: false
+  xy: 1411, 782
+  size: 340, 256
+  orig: 340, 256
+  offset: 0, 0
+  index: -1
+skin-3/Group 5 copy
+  rotate: false
+  xy: 1764, 1312
+  size: 250, 302
+  orig: 250, 302
+  offset: 0, 0
+  index: -1
+skin-3/Group 7
+  rotate: true
+  xy: 1063, 1253
+  size: 392, 308
+  orig: 392, 308
+  offset: 0, 0
+  index: -1
+skin-3/Layer 24
+  rotate: true
+  xy: 1233, 899
+  size: 350, 174
+  orig: 350, 174
+  offset: 0, 0
+  index: -1
+skin-3/crown
+  rotate: false
+  xy: 1755, 962
+  size: 263, 158
+  orig: 263, 158
+  offset: 0, 0
+  index: -1
+skin-3/necklace
+  rotate: false
+  xy: 1784, 1618
+  size: 240, 126
+  orig: 240, 126
+  offset: 0, 0
+  index: -1
+skin-3/oGroup 4 copy 2
+  rotate: false
+  xy: 945, 1649
+  size: 420, 333
+  orig: 420, 333
+  offset: 0, 0
+  index: -1
+skin-3/oGroup 5 copy
+  rotate: false
+  xy: 929, 900
+  size: 300, 349
+  orig: 300, 349
+  offset: 0, 0
+  index: -1
+skin-3/oGroup 7
+  rotate: false
+  xy: 4, 899
+  size: 420, 345
+  orig: 420, 345
+  offset: 0, 0
+  index: -1
+skin-3/oLayer 24
+  rotate: true
+  xy: 428, 824
+  size: 420, 244
+  orig: 420, 244
+  offset: 0, 0
+  index: -1
+skin-3/ocrown
+  rotate: false
+  xy: 667, 7
+  size: 300, 208
+  orig: 300, 208
+  offset: 0, 0
+  index: -1
+skin-3/onecklace
+  rotate: true
+  xy: 1036, 596
+  size: 300, 190
+  orig: 300, 190
+  offset: 0, 0
+  index: -1

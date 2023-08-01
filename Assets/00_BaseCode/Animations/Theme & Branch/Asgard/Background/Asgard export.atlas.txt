@@ -1,0 +1,27 @@
+
+Asgard export.png
+size: 1804,815
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hue/Saturation 5
+  rotate: false
+  xy: 2, 56
+  size: 1800, 757
+  orig: 1802, 759
+  offset: 1, 1
+  index: -1
+Hue/Saturation 5 copy
+  rotate: true
+  xy: 2, 2
+  size: 25, 890
+  orig: 25, 891
+  offset: 0, 0
+  index: -1
+Hue/Saturation 5 copy 2
+  rotate: false
+  xy: 2, 29
+  size: 989, 25
+  orig: 989, 25
+  offset: 0, 0
+  index: -1

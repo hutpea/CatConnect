@@ -1,0 +1,55 @@
+
+lightfx.png
+size: 362,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: true
+  xy: 2, 11
+  size: 5, 135
+  orig: 8, 144
+  offset: 2, 7
+  index: -1
+Layer 3
+  rotate: true
+  xy: 2, 25
+  size: 41, 276
+  orig: 50, 312
+  offset: 6, 17
+  index: -1
+Layer 4
+  rotate: false
+  xy: 309, 2
+  size: 44, 161
+  orig: 55, 237
+  offset: 4, 72
+  index: -1
+Layer 5
+  rotate: true
+  xy: 2, 68
+  size: 95, 305
+  orig: 131, 400
+  offset: 18, 50
+  index: -1
+Layer 7
+  rotate: true
+  xy: 2, 18
+  size: 5, 172
+  orig: 8, 185
+  offset: 1, 6
+  index: -1
+Layer 8
+  rotate: true
+  xy: 176, 19
+  size: 4, 61
+  orig: 26, 83
+  offset: 20, 2
+  index: -1
+Layer 9
+  rotate: false
+  xy: 355, 31
+  size: 5, 132
+  orig: 12, 136
+  offset: 2, 2
+  index: -1

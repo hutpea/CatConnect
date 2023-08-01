@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7464713942432568067
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1864267141724657989}
+  - component: {fileID: 6075343641472971803}
+  m_Layer: 0
+  m_Name: GameAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1864267141724657989
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7464713942432568067}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6075343641472971803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7464713942432568067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112eafffc77471e46abb35f60f68ccb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cellHolderPrefab: {fileID: 6513240494628650200, guid: 680a3cd68c3a4f2429aeecbc12073803, type: 3}
+  cellHolderVisualPrefab: {fileID: 6513240494628650200, guid: 3f83a5b63a444364d86abb82b72b4107, type: 3}
+  targetItemPrefab: {fileID: 2669601349207430279, guid: 7c4f30a9d08fe4341a81ee5186948137, type: 3}
+  testDot: {fileID: 7522049033663221284, guid: 1455ce99ef11fa94eae7d11700d2b3ff, type: 3}
+  anyColorDot: {fileID: 4573287939729320181, guid: bfda327553ce13c4ebeaf0d664276bfb, type: 3}
+  woolDotPrefab: {fileID: 2196004811304878798, guid: 7b4d09d96c1d23f4594810525be45892, type: 3}
+  catAnimationDatas:
+  - skeletonDataAsset: {fileID: 11400000, guid: bee4bfb8199996642b3c299c25ed86d6, type: 2}
+    idle: {fileID: 11400000, guid: 13aac2d1579880448843bbbf6a86757a, type: 2}
+    choose: {fileID: 11400000, guid: 67f0ac676d6f5784da72d0a1b8fb567a, type: 2}
+    jumping: {fileID: 11400000, guid: fbe8c57538911c240944f44e38be904f, type: 2}
+    jumpingOut: {fileID: 11400000, guid: 21772e62f57137c4eb1722601fb60cac, type: 2}
+    stay: {fileID: 11400000, guid: 3df9c4aaa7956cc488bec97fcbe12f26, type: 2}
+  - skeletonDataAsset: {fileID: 11400000, guid: 70f2800fb128b3f4991372138efbb3b1, type: 2}
+    idle: {fileID: 11400000, guid: 3f47ead24ecba0e4b871d5675b09ebe9, type: 2}
+    choose: {fileID: 11400000, guid: d28b1bc01a3d5964eb7fb8a6c491fba5, type: 2}
+    jumping: {fileID: 11400000, guid: 095be67874d9aac4daa4990cbf5aac77, type: 2}
+    jumpingOut: {fileID: 11400000, guid: 6aae3cf3aafd66b4fbc4dd209fcc9ed6, type: 2}
+    stay: {fileID: 11400000, guid: f063a85ab443797449339a9a30b0b692, type: 2}
+  - skeletonDataAsset: {fileID: 11400000, guid: b3d673296a1dab3478d185a11a832d00, type: 2}
+    idle: {fileID: 11400000, guid: a2acf80bc38d28d42be88b46b518be04, type: 2}
+    choose: {fileID: 11400000, guid: 160eceaff0379144f8af71e433efd9f5, type: 2}
+    jumping: {fileID: 11400000, guid: 354bfc9ffe1b53641bcd6298ac5dc93e, type: 2}
+    jumpingOut: {fileID: 11400000, guid: d191b22ace22e864a9ab0445ba6b84f1, type: 2}
+    stay: {fileID: 11400000, guid: c028929518fdb8148ad700c2e495651b, type: 2}
+  - skeletonDataAsset: {fileID: 11400000, guid: 213111a4f5ab2a841bba743318fe59de, type: 2}
+    idle: {fileID: 11400000, guid: 8564a7b5d8fe70f468ace73d0aad1695, type: 2}
+    choose: {fileID: 11400000, guid: 0538c6e205afee74489758c7b014fa0b, type: 2}
+    jumping: {fileID: 11400000, guid: 9cb6452ec856df142bca7ec8743a8dc4, type: 2}
+    jumpingOut: {fileID: 11400000, guid: cea6f089cf2bcee4885beb279d6b5049, type: 2}
+    stay: {fileID: 11400000, guid: 061fdd82166ea2a4aa59635157456da6, type: 2}
+  - skeletonDataAsset: {fileID: 11400000, guid: 1ded382f878db8b45af927f8b19f4d9b, type: 2}
+    idle: {fileID: 11400000, guid: f518fa9c033f05144aac5d61eddf64a5, type: 2}
+    choose: {fileID: 11400000, guid: f810fa9c1b7abe64996ec1b370c09929, type: 2}
+    jumping: {fileID: 11400000, guid: a5232c2b5cc0a4741a75d6908bc4b959, type: 2}
+    jumpingOut: {fileID: 11400000, guid: 7b0868201a3fc4d4b961ab3fcd66bd96, type: 2}
+    stay: {fileID: 11400000, guid: ab2888e33c667cd47858e3049473ae7e, type: 2}
+  - skeletonDataAsset: {fileID: 11400000, guid: ad4afb2deb59ee6478bd1730fd71a616, type: 2}
+    idle: {fileID: 11400000, guid: 024d9093603711e45b3507887f619fde, type: 2}
+    choose: {fileID: 11400000, guid: 271451cd297df5e4284e5cd5462209f0, type: 2}
+    jumping: {fileID: 11400000, guid: ceb0a0053257cfd4fb2eef368b837380, type: 2}
+    jumpingOut: {fileID: 11400000, guid: 6b501f4f454aa5f46baa7149ce24595a, type: 2}
+    stay: {fileID: 11400000, guid: c3b466cc4edf81843a99f684f9f49ed6, type: 2}
+  boxBoom: {fileID: 11400000, guid: 2e35c4ff51163dc44b182406473bd1fe, type: 2}
+  iceCrack: {fileID: 11400000, guid: bcced904c0cbe4c458842f3b2154dd75, type: 2}
+  iceBroken: {fileID: 11400000, guid: ed1afb3743a92b84fba8f61f286767c8, type: 2}
+  waterTile: {fileID: 2457257398777381643, guid: 6c278067ddaf20d46986c2f408bffe75, type: 3}
+  iceTile: {fileID: 6340845162836647023, guid: 0c916e3d490ad324098f0e3e62fcebad, type: 3}
+  blockTile: {fileID: 6340845162836647023, guid: 139f3869a8ea59646baf09a42c3f69b8, type: 3}
+  gapTile: {fileID: 5477700383896221746, guid: d3e1d5a8ea3ad5c4a922b238cdd862dc, type: 3}
+  circleDotPrefab: {fileID: 7378184687961461367, guid: e9b6ad7f0540c084fad2943f962f0477, type: 3}
+  burstCircleParticleEffect: {fileID: 3833630700981982104, guid: 275845b3ab113e6478a268079488e2db, type: 3}
+  confetties:
+  - {fileID: 198478620678644062, guid: 7ec11f4b2f062524f92386d2ef4b618c, type: 3}
+  - {fileID: 198479350452278120, guid: 0d57e66d7df915b4aabb02005dd9f8b1, type: 3}
+  - {fileID: 198183601560427922, guid: da4957823d91d8a4c878dec336e7dfe1, type: 3}
+  - {fileID: 198727264304738378, guid: 0d069c3f7af0a6d4ea124420c9c45b78, type: 3}
+  - {fileID: 198677243306319532, guid: cfd858b69e847b4468421c2fd8411837, type: 3}
+  - {fileID: 198283642153668412, guid: efe5e46a88f1c73478f88dadde84347b, type: 3}
+  icePhase1: {fileID: 21300000, guid: 7fd1fdcce32d21c4bb9692965bcd21b8, type: 3}
+  icePhase2: {fileID: 21300000, guid: 5cac6f38035e6fb42a61c6df9c35ec1c, type: 3}
+  icePhase3: {fileID: 21300000, guid: 94c83b669dda6b24d9dfd50a7d38c1a5, type: 3}
+  blockSprite: {fileID: 21300000, guid: 039d6c8620bdd60498a747b92f7c2c33, type: 3}
+  defaultCircle: {fileID: 21300000, guid: f7876974a1b60ed4ca3dfd37f229386f, type: 3}
+  redCat: {fileID: 21300000, guid: 5c6869ba0376c364fb6b9db50ff4a7d6, type: 3}
+  yellowCat: {fileID: 21300000, guid: 87d1f3fdc103891439540592e6780d98, type: 3}
+  whiteCat: {fileID: 21300000, guid: 3398e1d224417ea41a51b77a032f4ff3, type: 3}
+  greenCat: {fileID: 21300000, guid: 257c4748916d8b54496340842c01b71e, type: 3}
+  purpleCat: {fileID: 21300000, guid: 359a9b22c09c984469d4f096891a20e1, type: 3}
+  pinkCat: {fileID: 21300000, guid: 071d1980de8239143a9c4b5375c63d55, type: 3}
+  wool: {fileID: 21300000, guid: 7a9f92ae09ad0f545ad809f0665e8217, type: 3}
+  catPrototypeSprite: {fileID: 21300000, guid: 7cf45646cbef38440993e2d3eb369e01, type: 3}
+  tutorialLV1Prefab: {fileID: 1157046639760792291, guid: 2fa441e55cadd454d8bce1335db4e92b, type: 3}
+  tutorialLV2Prefab: {fileID: 1157046639760792291, guid: c347f25289003734bbcbc6494bbc3580, type: 3}
+  tutorialRandomizePrefab: {fileID: 1157046639760792291, guid: 985793a5c511f8a41b3972bb0e105ef4, type: 3}
+  tutorialErasePrefab: {fileID: 1157046639760792291, guid: d7968aeb3d152cd4388334dec99cd638, type: 3}
+  tutorialSameColorPrefab: {fileID: 1157046639760792291, guid: 6730c3276eb833f41a891237f7dff13d, type: 3}
+  addPowerupButton: {fileID: 21300000, guid: e6fa81d68ad9da244a1b948f01b4443d, type: 3}
+  containAmountPowerupButton: {fileID: 21300000, guid: f34693cedc02ffe47898b113ff4adbd1, type: 3}

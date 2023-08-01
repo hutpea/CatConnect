@@ -1,0 +1,111 @@
+
+meoxanhbien.png
+size: 627,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 425, 223
+  size: 113, 90
+  orig: 113, 90
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 425, 120
+  size: 127, 27
+  orig: 127, 27
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 586, 157
+  size: 32, 38
+  orig: 36, 40
+  offset: 2, 1
+  index: -1
+13
+  rotate: false
+  xy: 583, 18
+  size: 32, 36
+  orig: 34, 40
+  offset: 1, 2
+  index: -1
+14
+  rotate: true
+  xy: 586, 191
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 340, 8
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 554, 56
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 334, 336
+  orig: 335, 336
+  offset: 1, 0
+  index: -1
+3
+  rotate: true
+  xy: 340, 61
+  size: 275, 83
+  orig: 281, 87
+  offset: 3, 3
+  index: -1
+4
+  rotate: true
+  xy: 517, 235
+  size: 101, 90
+  orig: 101, 91
+  offset: 0, 1
+  index: -1
+5
+  rotate: false
+  xy: 433, 7
+  size: 101, 90
+  orig: 101, 91
+  offset: 0, 1
+  index: -1
+6
+  rotate: false
+  xy: 536, 9
+  size: 45, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1
+7
+  rotate: true
+  xy: 609, 304
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 425, 149
+  size: 159, 72
+  orig: 165, 72
+  offset: 5, 0
+  index: -1
+9
+  rotate: false
+  xy: 425, 99
+  size: 123, 19
+  orig: 125, 22
+  offset: 1, 2
+  index: -1

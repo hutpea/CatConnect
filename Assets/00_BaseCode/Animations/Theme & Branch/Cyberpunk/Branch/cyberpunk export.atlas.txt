@@ -1,0 +1,69 @@
+
+cyberpunk export.png
+size: 676,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 59
+  rotate: true
+  xy: 277, 68
+  size: 476, 83
+  orig: 478, 83
+  offset: 1, 0
+  index: -1
+Group 62
+  rotate: true
+  xy: 2, 16
+  size: 528, 88
+  orig: 529, 88
+  offset: 0, 0
+  index: -1
+Layer 672
+  rotate: true
+  xy: 92, 21
+  size: 523, 88
+  orig: 524, 88
+  offset: 0, 0
+  index: -1
+Layer 675
+  rotate: true
+  xy: 362, 91
+  size: 453, 126
+  orig: 501, 183
+  offset: 18, 27
+  index: -1
+Layer 676
+  rotate: true
+  xy: 490, 144
+  size: 400, 98
+  orig: 431, 150
+  offset: 17, 36
+  index: -1
+Layer 677
+  rotate: true
+  xy: 182, 56
+  size: 488, 93
+  orig: 528, 157
+  offset: 23, 46
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 362, 19
+  size: 111, 70
+  orig: 111, 72
+  offset: 0, 1
+  index: -1
+Vector Smart Object copy
+  rotate: false
+  xy: 490, 23
+  size: 184, 119
+  orig: 184, 122
+  offset: 0, 1
+  index: -1
+Vector Smart Object copy 2
+  rotate: false
+  xy: 182, 2
+  size: 79, 52
+  orig: 79, 53
+  offset: 0, 1
+  index: -1

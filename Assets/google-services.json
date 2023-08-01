@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036048847438",
+    "project_id": "connect-two-cats-classic",
+    "storage_bucket": "connect-two-cats-classic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036048847438:android:858ddaf9fa92dde998691f",
+        "android_client_info": {
+          "package_name": "com.gplay.two.cat.connect.tile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036048847438-hkvg2ukbaep8nepmjbck0u47hndr53hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYe-QhPYa-2d43BpRRMwKM4tRHtN-fjvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036048847438-hkvg2ukbaep8nepmjbck0u47hndr53hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

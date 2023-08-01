@@ -1,0 +1,293 @@
+
+star_on copy 32.png
+size: 1663,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Vector
+  rotate: false
+  xy: 361, 5
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+Vector Smart
+  rotate: false
+  xy: 30, 7
+  size: 34, 22
+  orig: 36, 25
+  offset: 1, 1
+  index: -1
+Vector Smart Obje
+  rotate: true
+  xy: 1182, 6
+  size: 79, 99
+  orig: 81, 101
+  offset: 1, 1
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 2, 31
+  size: 80, 172
+  orig: 84, 176
+  offset: 2, 2
+  index: -1
+Vector Smart Object copy 6
+  rotate: false
+  xy: 492, 3
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+Vector Smart Object,
+  rotate: true
+  xy: 404, 6
+  size: 40, 86
+  orig: 42, 88
+  offset: 1, 1
+  index: -1
+Vector Smart Object0
+  rotate: true
+  xy: 1569, 98
+  size: 53, 40
+  orig: 55, 42
+  offset: 1, 1
+  index: -1
+Vector Smart Object1
+  rotate: true
+  xy: 1536, 14
+  size: 76, 35
+  orig: 78, 37
+  offset: 1, 1
+  index: -1
+Vector Smart Object4
+  rotate: false
+  xy: 108, 2
+  size: 68, 29
+  orig: 71, 31
+  offset: 1, 1
+  index: -1
+Vector Smart Object7
+  rotate: false
+  xy: 1573, 63
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+Vector Smart Object9
+  rotate: false
+  xy: 66, 12
+  size: 40, 17
+  orig: 42, 19
+  offset: 1, 1
+  index: -1
+Vector Smart Objecte
+  rotate: false
+  xy: 2, 3
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+Vector Smart Objectf
+  rotate: false
+  xy: 1457, 92
+  size: 110, 111
+  orig: 112, 113
+  offset: 1, 1
+  index: -1
+Vector Smart Objecti
+  rotate: false
+  xy: 307, 48
+  size: 141, 155
+  orig: 141, 155
+  offset: 0, 0
+  index: -1
+Vector Smart Objectj
+  rotate: true
+  xy: 178, 3
+  size: 28, 15
+  orig: 30, 17
+  offset: 1, 1
+  index: -1
+Vector Smart Objectk
+  rotate: false
+  xy: 318, 4
+  size: 41, 42
+  orig: 43, 45
+  offset: 1, 1
+  index: -1
+Vector Smart Objectl
+  rotate: false
+  xy: 241, 47
+  size: 64, 156
+  orig: 66, 158
+  offset: 1, 1
+  index: -1
+Vector Smart Objectp
+  rotate: true
+  xy: 1134, 6
+  size: 69, 46
+  orig: 71, 48
+  offset: 1, 1
+  index: -1
+Vector Smart Objectq
+  rotate: true
+  xy: 1330, 8
+  size: 78, 98
+  orig: 78, 99
+  offset: 0, 1
+  index: -1
+Vector Smart Objectu
+  rotate: true
+  xy: 1044, 5
+  size: 70, 88
+  orig: 72, 90
+  offset: 1, 1
+  index: -1
+Vector Smart Objectz
+  rotate: true
+  xy: 1149, 87
+  size: 116, 115
+  orig: 118, 117
+  offset: 1, 1
+  index: -1
+Vector Smarui Object
+  rotate: false
+  xy: 1266, 88
+  size: 95, 115
+  orig: 99, 119
+  offset: 2, 2
+  index: -1
+Vector Smaurt Object
+  rotate: false
+  xy: 274, 3
+  size: 42, 42
+  orig: 46, 46
+  offset: 2, 2
+  index: -1
+Vector Smyart Object
+  rotate: false
+  xy: 1611, 113
+  size: 50, 38
+  orig: 54, 43
+  offset: 2, 2
+  index: -1
+aef
+  rotate: true
+  xy: 1009, 13
+  size: 56, 33
+  orig: 60, 37
+  offset: 2, 2
+  index: -1
+aqafxz
+  rotate: true
+  xy: 888, 71
+  size: 132, 131
+  orig: 136, 135
+  offset: 2, 2
+  index: -1
+d
+  rotate: false
+  xy: 84, 33
+  size: 155, 170
+  orig: 159, 173
+  offset: 2, 1
+  index: -1
+dsff
+  rotate: false
+  xy: 1569, 153
+  size: 92, 50
+  orig: 96, 55
+  offset: 3, 2
+  index: -1
+dy
+  rotate: true
+  xy: 1430, 3
+  size: 86, 104
+  orig: 90, 108
+  offset: 2, 2
+  index: -1
+dyh
+  rotate: false
+  xy: 1363, 91
+  size: 92, 112
+  orig: 96, 117
+  offset: 2, 3
+  index: -1
+fdgw
+  rotate: false
+  xy: 855, 12
+  size: 69, 56
+  orig: 73, 60
+  offset: 2, 2
+  index: -1
+frhfd
+  rotate: true
+  xy: 1283, 2
+  size: 84, 45
+  orig: 89, 49
+  offset: 2, 2
+  index: -1
+fxaw
+  rotate: false
+  xy: 1611, 62
+  size: 49, 49
+  orig: 53, 53
+  offset: 2, 2
+  index: -1
+hrdf
+  rotate: true
+  xy: 751, 12
+  size: 56, 102
+  orig: 60, 106
+  offset: 2, 2
+  index: -1
+i
+  rotate: false
+  xy: 692, 11
+  size: 57, 57
+  orig: 61, 61
+  offset: 2, 2
+  index: -1
+j
+  rotate: true
+  xy: 241, 2
+  size: 43, 31
+  orig: 48, 35
+  offset: 3, 2
+  index: -1
+k
+  rotate: false
+  xy: 1021, 77
+  size: 126, 126
+  orig: 130, 131
+  offset: 2, 2
+  index: -1
+sd
+  rotate: true
+  xy: 926, 2
+  size: 67, 81
+  orig: 72, 85
+  offset: 3, 2
+  index: -1
+star_on copy 3
+  rotate: false
+  xy: 450, 70
+  size: 436, 133
+  orig: 438, 135
+  offset: 1, 1
+  index: -1
+t
+  rotate: false
+  xy: 633, 10
+  size: 57, 58
+  orig: 61, 63
+  offset: 2, 2
+  index: -1
+zsfd
+  rotate: false
+  xy: 546, 6
+  size: 85, 62
+  orig: 89, 66
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,62 @@
+
+AVENGER TOWER - Export.png
+size: 680,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 62 copy 3
+  rotate: false
+  xy: 2, 363
+  size: 676, 144
+  orig: 678, 146
+  offset: 1, 1
+  index: -1
+Group 62 copy 6
+  rotate: false
+  xy: 2, 217
+  size: 676, 144
+  orig: 678, 146
+  offset: 1, 1
+  index: -1
+Group 62 copy 7
+  rotate: false
+  xy: 2, 71
+  size: 676, 144
+  orig: 678, 146
+  offset: 1, 1
+  index: -1
+Group 65
+  rotate: false
+  xy: 274, 2
+  size: 130, 67
+  orig: 137, 67
+  offset: 4, 0
+  index: -1
+Group 65 copy
+  rotate: false
+  xy: 139, 2
+  size: 133, 67
+  orig: 137, 67
+  offset: 4, 0
+  index: -1
+Group 65 copy 2
+  rotate: false
+  xy: 2, 2
+  size: 135, 67
+  orig: 137, 67
+  offset: 1, 0
+  index: -1
+Group 65 copy 3
+  rotate: false
+  xy: 463, 36
+  size: 55, 33
+  orig: 59, 33
+  offset: 3, 0
+  index: -1
+Group 65 copy 4
+  rotate: false
+  xy: 406, 31
+  size: 55, 38
+  orig: 56, 39
+  offset: 1, 0
+  index: -1

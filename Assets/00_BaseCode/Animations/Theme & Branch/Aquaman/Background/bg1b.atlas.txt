@@ -1,0 +1,97 @@
+
+bg1b.png
+size: 1806,1159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 45
+  rotate: false
+  xy: 2, 739
+  size: 1802, 418
+  orig: 1802, 418
+  offset: 0, 0
+  index: -1
+bb1
+  rotate: true
+  xy: 950, 120
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+bb2
+  rotate: true
+  xy: 950, 77
+  size: 41, 42
+  orig: 42, 42
+  offset: 1, 0
+  index: -1
+bb3
+  rotate: true
+  xy: 950, 164
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+bb3 copy
+  rotate: true
+  xy: 950, 164
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+buom1
+  rotate: true
+  xy: 2, 235
+  size: 311, 541
+  orig: 311, 541
+  offset: 0, 0
+  index: -1
+buom2
+  rotate: false
+  xy: 1545, 111
+  size: 251, 435
+  orig: 251, 435
+  offset: 0, 0
+  index: -1
+buom3
+  rotate: true
+  xy: 545, 2
+  size: 233, 403
+  orig: 233, 403
+  offset: 0, 0
+  index: -1
+cot1
+  rotate: true
+  xy: 545, 237
+  size: 309, 552
+  orig: 311, 554
+  offset: 1, 1
+  index: -1
+cot2
+  rotate: true
+  xy: 1099, 297
+  size: 249, 444
+  orig: 251, 446
+  offset: 1, 1
+  index: -1
+cot3
+  rotate: true
+  xy: 1099, 64
+  size: 231, 411
+  orig: 233, 413
+  offset: 1, 1
+  index: -1
+may
+  rotate: false
+  xy: 2, 548
+  size: 1802, 189
+  orig: 1802, 189
+  offset: 0, 0
+  index: -1
+thuyen1
+  rotate: false
+  xy: 2, 64
+  size: 197, 169
+  orig: 197, 169
+  offset: 0, 0
+  index: -1
